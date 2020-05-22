@@ -18,3 +18,6 @@
 - views BookmarkDetailView
 - templates bookmark_detail
 - urls detail/<int:pk>/
+- modity bookmark_list detail link
+- update : views BookmarkUpdateView, templates bookmark_update.html, urls, modify Modify link
+- delete : views BookmarkDeleteView, templates bookmark_confirm_delete.html, urls, modify Modify link
