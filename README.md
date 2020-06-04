@@ -21,3 +21,5 @@
 - modity bookmark_list detail link
 - update : views BookmarkUpdateView, templates bookmark_update.html, urls, modify Modify link
 - delete : views BookmarkDeleteView, templates bookmark_confirm_delete.html, urls, modify Modify link
+- Cancel button 만들기, base.html 확장하기, bootstrap 적용하기
+- pagenation views, base.html, bookmark_list.html
